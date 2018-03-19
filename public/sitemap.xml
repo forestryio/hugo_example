@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://vmpy-r6jjki-eg.staging-previews.forestry.io/post/welcome/</loc>
+    <lastmod>2016-02-09T15:02:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vmpy-r6jjki-eg.staging-previews.forestry.io/</loc>
+    <lastmod>2016-02-09T15:02:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vmpy-r6jjki-eg.staging-previews.forestry.io/post/</loc>
+    <lastmod>2016-02-09T15:02:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vmpy-r6jjki-eg.staging-previews.forestry.io/statuses/started/</loc>
+    <lastmod>2016-02-09T15:02:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vmpy-r6jjki-eg.staging-previews.forestry.io/statuses/</loc>
+    <lastmod>2016-02-09T15:02:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
